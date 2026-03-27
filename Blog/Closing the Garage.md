@@ -1,6 +1,6 @@
 ---
 title: "Closing the Garage"
-date: 2025-03-27
+date: 2026-03-27
 ---
 
 I built the [Garage](https://frodigo.com/) as a space for programmers who value traditional coding. A place where we write code ourselves, where AI doesn't use us — we use AI. A small rebellion against the vibe coding era.
