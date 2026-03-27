@@ -9,7 +9,7 @@ But I'm shutting it down. The website at frodigo.com will no longer be available
 
 Because my resistance was pointless.
 
-Big tech companies have already decided for all of us. AI is not a direction for the future — it's the present. Fighting it felt like standing in front of a train and asking it to slow down. The train doesn't care.
+Big tech companies have already decided for all of us. AI is not a direction for the future. It's the present. Fighting it felt like standing in front of a train and asking it to slow down. The train doesn't care.
 
 I still believe that understanding code matters. I still think that writing your first function yourself teaches you something that no AI-generated output ever will. But spending energy on resistance? That's a losing game. I'd rather spend that energy on creating things.
 
@@ -46,4 +46,4 @@ The Garage was a good idea at a wrong time. Or maybe at the right time — it he
 
 I just don't want to spend my time configuring rebellion anymore. I'd rather restore an Amiga 600 and make a video about it.
 
-See you on the other side.
+See you on the other side. Bye!
