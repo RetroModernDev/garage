@@ -1,3 +1,7 @@
+## 2026
+
+- [Closing the Garage](Closing%20the%20Garage.md)
+
 ## 2025
 
 - [Numpy essentials I learned as beginner](Numpy%20essentials%20I%20learned%20as%20beginner.md)
